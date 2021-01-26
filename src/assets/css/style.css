@@ -1,0 +1,36 @@
+.root{
+  margin: auto;
+  width: 65%;
+}
+.MuiFormControl-root{
+  height:42px !important;
+  width: 100%;
+}
+.MuiFormControl-root .select{
+  height:40px !important;
+  margin-top:10px;
+ 
+}
+.addIcon { margin-top: 30px;
+  float: right; cursor: pointer;}
+.MuiAppBar-colorPrimary{
+  color: #3f51b5 !important;
+  background-color: #fff !important;
+  font-weight: 700;
+}
+.MuiFormControl-marginDense{
+  width:100%;
+}
+.MuiTableContainer-root{
+  margin-top:15px;
+}
+.MuiPaper-elevation4{
+  box-shadow:none!important;
+}
+.MuiTabs-flexContainer{
+  border-bottom:1px solid  rgba(224, 224, 224, 1);
+}
+.MuiTab-textColorInherit.Mui-selected{
+  border:1px solid  rgba(224, 224, 224, 1);
+  border-bottom: none!important;
+}
