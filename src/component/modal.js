@@ -18,6 +18,7 @@ const useStyles = makeStyles({
 });
 
 
+export default function SpanningTable(props) {
   const classes = useStyles();
   return (
     <div className="root">
