@@ -18,7 +18,6 @@ const useStyles = makeStyles({
 });
 
 
-export default function ModalComp(props) {
   const classes = useStyles();
   return (
     <div className="root">
